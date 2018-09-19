@@ -187,6 +187,11 @@
     </dependencyManagement>
     <dependencies>
         <dependency>
+            <groupId>com.baidu</groupId>
+            <artifactId>com.baidu</artifactId>
+            <version>2.4</version>
+ </dependency>
+        <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <version>4.12</version>
