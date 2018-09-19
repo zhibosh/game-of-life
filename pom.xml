@@ -187,9 +187,10 @@
     </dependencyManagement>
     <dependencies>
         <dependency>
-            <groupId>com.baidu</groupId>
-            <artifactId>com.baidu</artifactId>
+            <groupId>org.apache.maven.plugin.maven-install-plugin</groupId>
+            <artifactId>org.apache.maven.plugin.maven-install-plugin</artifactId>
             <version>2.4</version>
+            <scope>test</scope>
  </dependency>
         <dependency>
             <groupId>junit</groupId>
